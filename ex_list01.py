@@ -8,6 +8,9 @@ print(mylist01)
 # showing how lists are ordered in python
 print(mylist01[2])
 
-print(mypetlist)
-print(mypetlist[0])
-print(mypetlist[1:])
+#create new list
+mypetnames = ["Dixie", "Oliver", "Scoots", "Tater Tot", "Rathpberry", "Mr. Barky-von-Schnauzer"]
+print(mypetnames)
+print(mypetnames[0])
+print(mypetnames[1:])
+print(mypetnames[:3])
