@@ -13,4 +13,3 @@ for g in grades:
         print("passed")
     else:
         print("dummy")
-
