@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+"""demonstrate adding or changing key-values"""
+
+# describe car object with dictionary
 car = {"make": "ferrari", "model": "fancy", "year": 2007, "color": "red", "purchase_price": 199000}
 
 # print the purchase_price
@@ -23,4 +26,3 @@ print(car)
 car["color"] = "neon pink"
 print(car)
 # {"make": "ferrari", "model": "fancy", "year": 2007, "color": "neon pink", "purchase_price": 199000, "street_cred": "over 9000"}
-
