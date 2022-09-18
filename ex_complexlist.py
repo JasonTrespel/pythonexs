@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
 
-# create a complex list from a simple list
-# simple list
+### create a complex list from a simple list
+
+# state simple list and print 
 simplelist = ["oil", "car", "gas"]
 print(simplelist)
 print(simplelist[1])
 
 # add new item
 simplelist.append("taxi")
-# print out list 
+
+# print out list to see new item
 print(simplelist)
 
-# add new list to list
+# add new list item to list
 simplelist.append(["cone", "stoplight", "battery"])
-# print out list
+
+# print out extended list
 print(simplelist)
 
 # start slicing
