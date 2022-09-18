@@ -22,6 +22,9 @@ car.update({"color": "metallic gold"})
 print(car)
 # {"make": "ferrari", "model": "fancy", "year": 2007, "color": "metallic gold", "purchase_price": 199000, "street_cred": "over 9000"}
 
+# add space for easier viewing
+print()
+
 # OR update the key's value directly
 car["color"] = "neon pink"
 print(car)
