@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
+### using the input function
+
 # setting variable
 color = "white"
 
-# will ask for favorite color 
+# will ask for user input
 question = input("What is your favorite color?")
 
 # will print statement giving answer
