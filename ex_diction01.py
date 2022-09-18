@@ -5,6 +5,7 @@
 # a dictionary is made up of key-value pairs
 # a key must be a string or a variable that resolves to a string
 # A value may be any valid pythonic type, including: str, int, float, list, dict and more!
+# print frequently to check the various results
 
 def main():
     # starting off with a blank dictionary of pets
@@ -25,4 +26,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
