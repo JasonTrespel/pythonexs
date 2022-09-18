@@ -7,7 +7,7 @@ def main():
     # create a blank list called pets
     pets = []
     
-    # add a cat to the list
+    # add an item to the list
     pets.append("cat")
     print(pets)
     
@@ -24,7 +24,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
