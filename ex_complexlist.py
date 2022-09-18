@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-### create a complex list from a simple list
+"""create a complex list from a simple list"""
 
 # state simple list and print 
 simplelist = ["oil", "car", "gas"]
