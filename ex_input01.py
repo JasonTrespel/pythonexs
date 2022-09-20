@@ -20,4 +20,4 @@ print("That's a cool color! My favorite is " + color)
 # update variable
 color = "purple"
 # print new response
-print("Never mind! It is actually" + color)
+print("Never mind! It is actually " + color)
