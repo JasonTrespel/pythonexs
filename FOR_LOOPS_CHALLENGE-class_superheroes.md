@@ -64,7 +64,7 @@ classinfo = {
             "name": "Blake",
             "skill level": "brilliant",
             "spirit animal": "Eagle",
-            "super power": "Helicopter Propulsion",
+            "super power": "Shape of: A Giant Shark,
         },
         {
             "name": "Brandon",
@@ -76,13 +76,13 @@ classinfo = {
             "name": "Carl",
             "skill level": "enjoyable",
             "spirit animal": "Water buffalo",
-            "super power": "Immobility",
+            "super power": "Transformation",
         },
         {
             "name": "Chris",
             "skill level": "excellent",
             "spirit animal": "Chicken",
-            "super power": "Immutability",
+            "super power": "Pyrokinesis",
         },
         {
             "name": "Christian",
@@ -94,7 +94,7 @@ classinfo = {
             "name": "Deepak",
             "skill level": "fantastic",
             "spirit animal": "Goose",
-            "super power": "Jet Propulsion",
+            "super power": "Explosive Shouts",
         },
         {
             "name": "Dennis",
@@ -106,19 +106,19 @@ classinfo = {
             "name": "Felicia",
             "skill level": "incredible",
             "spirit animal": "Turkey",
-            "super power": "Mobile Invulnerability",
+            "super power": "Zoolingualism",
         },
         {
             "name": "Gabriel",
             "skill level": "magnificent",
             "spirit animal": "Aardvark",
-            "super power": "Muscle Manipulation",
+            "super power": "Height Manipulation",
         },
         {
             "name": "Julian",
             "skill level": "marvelous",
             "spirit animal": "Aardwolf",
-            "super power": "Nail Manipulation",
+            "super power": "Hydrokinesis",
         },
         {
             "name": "Kelly",
@@ -130,25 +130,25 @@ classinfo = {
             "name": "Lashay",
             "skill level": "phenomenal",
             "spirit animal": "Leopard",
-            "super power": "Organic Constructs",
+            "super power": "Stretchy",
         },
         {
             "name": "Nabin",
             "skill level": "pleasant",
             "spirit animal": "Albatross",
-            "super power": "Prehensile Hair",
+            "super power": "Steel Skin",
         },
         {
             "name": "Pratibha",
             "skill level": "pleasing",
             "spirit animal": "Alligator",
-            "super power": "Prehensile Tail",
+            "super power": "Teleportation",
         },
         {
             "name": "Quentin",
             "skill level": "remarkable",
             "spirit animal": "Lynx",
-            "super power": "Prehensile Tongue",
+            "super power": "Polyglot",
         },
         {
             "name": "Will",
@@ -159,6 +159,12 @@ classinfo = {
     ]
 }
 ```
+
+
+
+
+
+
 
 
 ### SOLUTION
