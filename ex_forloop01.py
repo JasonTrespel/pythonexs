@@ -9,11 +9,11 @@ petlist = ["Fluffy", "Garfield", "Snowball", "Olvier"]
 
 # loop across list
 for pet in petlist:
-    print(petlist)
+    print(petlist, "\n")
 
 # loop in a different way
-for each in petlist:
-    print(each)
+for pet in petlist:
+    print(pet)
 
 # change list to change loop
 petlist = ["Oliver", "Garfield", "Poofy"]
