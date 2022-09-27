@@ -64,7 +64,7 @@ classinfo = {
             "name": "Blake",
             "skill level": "brilliant",
             "spirit animal": "Eagle",
-            "super power": "Shape of: A Giant Shark,
+            "super power": "Shape of: A Giant Shark",
         },
         {
             "name": "Brandon",
