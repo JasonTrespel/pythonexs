@@ -68,7 +68,7 @@ HINT: There is a function for this; don't be afraid to look for answers on the d
 
 **Bonus 2**
 
-The list of TLG students for the course is consistently changing. Classes size can expand or diminish with each teaching. Set the `num` variable to account for changing list lengths, without having to manually recode the list range. Finally, code the input() to allow the user to type a number beginning from 1 (users don't like to think about zero-indexing). Hint - Check the Python built-in functions.
+The list of TLG students for the course is consistently changing. Class sizes can expand or diminish with each teaching (although the expectation is that classes will grow!). Set the `num` variable to account for changing list lengths, without having to manually recode the list range. Finally, code the input() to allow the user to type a number beginning from 1 (users don't like to think about zero-indexing). Hint - Check the Python built-in functions.
 
 
 
