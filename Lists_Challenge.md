@@ -60,12 +60,19 @@ tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Ebri
 ```
 > "4" and "spaces" should come from `wordbank`!
 
-**Bonus** 
+**Bonus 1** 
 
-Come up with a solution that accounts for the index value of zero. Put another way, change the code so a user does not have to enter 0 to choose the first name in the list.
+Find a way to randomize what student name is picked. 
+HINT: There is a function for this; don't be afraid to look for answers on the docs page!
 
 
-## SOLUTION including bonuses:
+**Bonus 2**
+
+The list of TLG students for the course is consistently changing. Classes size can expand or diminish with each teaching. Set the `num` variable to account for changing list lengths, without having to manually recode the list range. Finally, code the input() to allow the user to type a number beginning from 1 (users don't like to think about zero-indexing). Hint - Check the Python built-in functions.
+
+
+
+## SOLUTION Including Bonuses:
 
 <details>
 <summary>Solution is below if you find yourself stuck.</summary>
