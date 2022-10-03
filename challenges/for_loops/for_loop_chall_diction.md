@@ -23,16 +23,18 @@ This Challenge will test your skills with lists, dictionaries, and (fruit) loopi
 • Ask a user to choose a company (Zesty, Ripe.ly, FruitBee, or JuiceGrove) and return the employees... but DO NOT return "Jason!" He got fired this morning for taste testing the ceral.
 
 
-## SOLUTION
+## SOLUTIONS
 
 <details>
 <summary>Solution is below if you find yourself stuck.</summary>
 <br>  
+  
 ```python
-fruitcompanies= [{"name":"Zesty","employees":["Brian", "Colin", "Derik", "Emily", "Fortune"]},
-                 {"name":"Ripe.ly","employees":["Kishor", "Leia", "Maria", "Jason"]},
+  
+fruitcompanies= [{"name":"Zesty","employees":["Bryan", "Colin", "Erik", "Greg", "John"]},
+                 {"name":"Ripe.ly","employees":["Kishor", "Leia", "Maria", "Chad"]},
                  {"name":"FruitBee","employees":["Monte", "Jarrad", "Pemba", "Don"]},
-                 {"name":"JuiceGrove","employees":["Tim", "Travis", "Trung, Torin"]}]
+                 {"name":"JuiceGrove","employees":["Tim", "Travis", "Trung"]}]
 
 # Write a for loop that returns all the employees from the company you "work" for!
 
@@ -41,13 +43,13 @@ for x in fruitcompanies[1]["employees"]:
 
 # Ask a user to choose a company. Return the employees that belong to that group.
 
-choice= input("Choose a company: Zesty, Ripe.ly, FruitBee, HoneyGrove\n>")
+choice= input("Choose a company: Zesty, Ripe.ly, FruitBee, JuiceGrove\n>")
 
 for company in fruitcompanies:
     if choice == company["name"]:
         print(company["employees"])
 
-# Ask a user to choose a company (Zesty, Ripe.ly, FruitBee, or HoneyGrove) and return the employees... but DO NOT return "Jason" He got fired this morning.
+# Ask a user to choose a company (Zesty, Ripe.ly, FruitBee, or JuiceGrove) and return the employees... but DO NOT return "Chad" He got fired this morning.
 
 x= 0
 for company in fruitcompanies:
@@ -57,7 +59,7 @@ for company in fruitcompanies:
 choice= int(input("Choose your company!\n>"))
 
 for x in fruitcompanies[choice - 1]["employees"]:
-   if x != "Jason":
+   if x != "Chad":
         print(x)
 ```
-<details>
+  
