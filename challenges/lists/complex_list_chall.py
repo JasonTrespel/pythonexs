@@ -6,11 +6,11 @@
 def main():
 
     # start with creating a list; 5 animals, 3 letter names
-    animal_crossing = ["Cat", "Dog", "Sue", "Zig", "Zag"]
+    animal_crossing = ["Cat", "Dog", "Sue", "Zig", "Zag", "Fly", "Fox", "Zoe"]
 
     # print names to screen
     print(animal_crossing)
-
+    # return animal_crossing
 
     for name in animal_crossing:
         print(name)
