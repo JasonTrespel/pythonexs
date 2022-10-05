@@ -3,7 +3,7 @@ from random import randint
 import dice
 import sys
 import os
-'''Chad's Ongoing RPG Game'''
+'''Demo RPG Game'''
 
 bestiary = [{'name' : 'goblin', 'health' : 10, 'damage' : '1d5'},
             {'name' : 'orc', 'health' : 15, 'damage' : '1d8'},
@@ -87,7 +87,7 @@ def combat():
 
 def showInstructions():
     print('''
-CHAD'S RPG GAME
+DEMO RPG GAME
 OBJECTIVE: Collect spells and weapons- fight and survive!
 --------
 Actions:
