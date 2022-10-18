@@ -1,10 +1,14 @@
 #!/usr/bin/python3
+
+# standard lib
 from random import randint
-import dice
 import sys
 import os
-'''Demo RPG Game'''
 
+# python3 -m pip install dice
+import dice
+
+#list of monsters
 bestiary = [{'name' : 'goblin', 'health' : 10, 'damage' : '1d5'},
             {'name' : 'orc', 'health' : 15, 'damage' : '1d6'},
             {'name' : 'ogre', 'health' : 20, 'damage' : '1d10'}]
@@ -177,7 +181,7 @@ rooms = {
             'randenc' : '0',
             'item' : 'potion',
             'item_status' : ' hiding among the bottles of wine. It is cherry red in color',
-            'compass' : 'You see to the north is a dark pantry. To the south lies a garden. West brings you back to the Hall.'
+            'compass' : 'You see to the north is a dark pantry. To the south lies a garden. West brings you back to the Hall. To the east you see a door that leads to dismal yard.'
             },
         'GARDEN' : {
             'north' : 'DINING ROOM',
