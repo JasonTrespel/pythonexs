@@ -6,13 +6,13 @@ SPACE... the final frontier! Click the following link to view an open API that, 
 
 http://api.open-notify.org/iss-now.json
 
-## Your challenge this morning is to do the following:
+## Your challenge is to do the following:
 
 #### Part 1: 
 - Using the **requests** module, access the API from the link above and pull/translate the JSON!
 
 <details>
-<summary>Wait, I haven't fully woken up yet. How about a lil' code to get me started? As a treat.</summary>
+<summary>Wait, I'm still sleepy. How about a lil' code to get me started? As a treat.</summary>
 
 ```python
 #!/usr/bin/env python3
