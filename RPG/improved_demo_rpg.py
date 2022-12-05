@@ -141,7 +141,7 @@ rooms = {
             'item_status' : ' inside of a display case. It is unlocked',
             'randenc' : '20',
             'desc' : 'You are in the hall of a large, decrepit house. The walls are blackened from some ancient fire. You get the feeling you are being watched. To the east is a dusty dining room. South is the kitchen... Maybe it was a trick of the light but you thought you saw something moving in there. There is also a very old staircase that leads to an upper floor.',
-            'compass' : 'You see that you can go south or east from here.'
+            'compass' : 'You see that you can go south or east from here. You also see a rickety staircase leading to an upstairs landing.'
             },
         'UPPER HALL' : {
             'down' : 'HALL',
