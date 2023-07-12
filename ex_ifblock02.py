@@ -18,7 +18,7 @@ while cont == "yes":
     
     # if input is higher than or equal to 90
     if score >= 90:
-        final_results = name + ', ' + results + 'A! Amazing job!'
+        final_results = name + ", " + results + "A! Amazing job!"
         print(final_results)
         cont = input("Would you like to enter a number score and see your grade? 'yes' or 'no' ")
         if cont == "no":
@@ -27,7 +27,7 @@ while cont == "yes":
 
     # if input is higher than or equal to 80
     elif score >= 80:
-        final_results = name + ', ' + results + 'B! Great job.'
+        final_results = name + ", " + results + "B! Great job."
         print(final_results)
         cont = input("Would you like to enter a number score and see your grade? 'yes' or 'no' ")
         if cont == "no":
@@ -36,7 +36,7 @@ while cont == "yes":
 
     # if input is higher than or equal to 70
     elif score >= 70:
-        final_results = name + ', ' + results + 'C. Cs get Degrees.'
+        final_results = name + ", " + results + "C. Cs get Degrees."
         print(final_results)
         cont = input("Would you like to enter a number score and see your grade? 'yes' or 'no' ")
         if cont == "no":
@@ -45,7 +45,7 @@ while cont == "yes":
 
     # if input is higher than or equal to 60
     elif score >= 60:
-        final_results = name + ', ' + results + 'D. Room for improvment.'
+        final_results = name + ", " + results + "D. Room for improvment."
         print(final_results)
         cont = input("Would you like to enter a number score and see your grade? 'yes' or 'no' ")
         if cont == "no":
@@ -54,7 +54,7 @@ while cont == "yes":
 
     # all other lower integers
     else:
-        final_results = name + ', ' + results + 'E. For extra failure.'
+        final_results = name + ", " + results + "E. For extra failure."
         print(final_results)
         cont = input("Would you like to enter a number score and see your grade? 'yes' or 'no' ")
         if cont == "no":
