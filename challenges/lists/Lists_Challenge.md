@@ -13,7 +13,7 @@ wordbank= ["indentation", "spaces"]
 **PART 2.** Put this list in your code:   
 
 ```python
-tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Ebrima", "Franco", "Greg", "Hoon", "Joey", "Jordan", "JC", "LB", "Mabel", "Shon", "Pat", "Zach"]
+tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Franco", "Greg", "Hoon", "Joey", "Jordan", "JC", "Louis", "Mabel", "Paul", "Zach"]
 ```
     
 **PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
@@ -68,7 +68,7 @@ HINT: There is a function for this; don't be afraid to look for answers on the d
 
 **Bonus 2**
 
-The list of TLG students for the course is consistently changing. Class sizes can expand or diminish with each teaching (although the expectation is that classes will grow!). Set the `num` variable to account for changing list lengths, without having to manually recode the list range. Finally, code the input() to allow the user to type a number beginning from 1 (users don't like to think about zero-indexing). Hint - Check the Python built-in functions.
+The list of students for the course is consistently changing. Class sizes can expand or diminish with each teaching (although the expectation is that classes will grow!). Set the `num` variable to account for changing list lengths, without having to manually recode the list range. Finally, code the input() to allow the user to type a number beginning from 1 (users don't like to think about zero-indexing). Hint - Check the Python built-in functions.
 
 
 
