@@ -13,7 +13,7 @@ wordbank= ["indentation", "spaces"]
 **PART 2.** Put this list in your code:   
 
 ```python
-tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Cory", "Franco", "Greg", "Hoon", "Joey", "Jordan", "JC", "Louis", "Mabel", "Paul", "Zach"]
+tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Dom", "Franco", "Ripal", "Rod", "Joey", "Jordan", "JC", "Louis", "Samuel", "Thomas", "Zach"]
 ```
     
 **PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
@@ -92,10 +92,10 @@ def main():
     wordbank = ["indentation", "spaces"]
     tlgstudents= ["Aaron", "Andy", "Asif",
                   "Brent", "Cedric", "Chris",
-                  "Cory", "Ebrima", "Franco",
-                  "Greg", "Hoon", "Joey",
-                  "Jordan", "JC", "LB",
-                  "Mabel", "Shon", "Pat", "Zach"]
+                  "Dom", "Franco", "Ripal",
+                  "Rod", "Joey", "Jordan",
+                  "JC", "Louuis", "Samuel",
+                  "Thomas", "Zach"]
 
     # print the tlg list as shown above. This helps to compare differences later implemented.
     print(tlgstudents)
