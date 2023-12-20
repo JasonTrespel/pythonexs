@@ -166,8 +166,9 @@ THE SOLUTION IS BELOW! NO CHEATING!
 
 
 
-
-### SOLUTION
+<details>
+<summary>SOLUTION</summary>
+<br>
 
 ```python
 # parts 1 and 2
@@ -186,3 +187,4 @@ for x in classinfo["all"]:
     # Mario, a <wondrous> <alpaca> of a programmer, possesses a <structure weakening> factor for moonlighting as a superhero!
     print(f"{name}, a {skill} {animal} of a programmer, possesses a {power} factor for moonlighting as a superhero!")
 ```
+</details>
