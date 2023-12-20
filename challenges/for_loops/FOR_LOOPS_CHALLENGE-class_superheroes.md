@@ -97,7 +97,7 @@ classinfo = {
             "super power": "Explosive Shouts",
         },
         {
-            "name": "Dennis",
+            "name": "Dom",
             "skill level": "great",
             "spirit animal": "Pigeon",
             "super power": "Matter Ingestion",
@@ -133,25 +133,25 @@ classinfo = {
             "super power": "Stretchy",
         },
         {
-            "name": "Nabin",
+            "name": "Ripal",
             "skill level": "pleasant",
             "spirit animal": "Albatross",
             "super power": "Steel Skin",
         },
         {
-            "name": "Pratibha",
+            "name": "Rod",
             "skill level": "pleasing",
             "spirit animal": "Alligator",
             "super power": "Teleportation",
         },
         {
-            "name": "Quentin",
+            "name": "Samuel",
             "skill level": "remarkable",
             "spirit animal": "Lynx",
             "super power": "Polyglot",
         },
         {
-            "name": "Will",
+            "name": "Thomas",
             "skill level": "super",
             "spirit animal": "Fox",
             "super power": "Eat Anything",
