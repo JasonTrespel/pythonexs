@@ -49,7 +49,7 @@ for company in fruitcompanies:
     if choice == company["name"]:
         print(company["employees"])
 
-# Ask a user to choose a company (Zesty, Ripe.ly, FruitBee, or JuiceGrove) and return the employees... but DO NOT return "Chad" He got fired this morning.
+# Ask a user to choose a company (Zesty, Ripely, FruitBee, or JuiceGrove) and return the employees... but DO NOT return "Chad" He got fired this morning.
 
 x= 0
 for company in fruitcompanies:
@@ -59,7 +59,7 @@ for company in fruitcompanies:
 choice= int(input("Choose your company!\n>"))
 
 for x in fruitcompanies[choice - 1]["employees"]:
-   if x != "Chad":
+   if x != "Jason":
         print(x)
 ```
   
