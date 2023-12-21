@@ -1,10 +1,10 @@
 # LOOPING DICTIONARIES Challenge!
 
 ```
-fruitcompanies= [{"name":"Zesty","employees":["Brian", "Colin", "Derik", "Emily", "Fortune"]},
+fruitcompanies= [{"name":"Zesty","employees":["Brian", "Colin", "Derik", "Emily", "Ripal"]},
                  {"name":"Ripe.ly","employees":["Kishor", "Leia", "Maria", "Jason"]},
-                 {"name":"FruitBee","employees":["Monte", "Jarrad", "Pemba", "Don"]},
-                 {"name":"HoneyGrove","employees":["Tim", "Travis", "Trung, Torin"]}]
+                 {"name":"FruitBee","employees":["Rod", "Jarrad", "Pemba", "Dom"]},
+                 {"name":"HoneyGrove","employees":["Samuel", "Travis", "Thomas, Torin"]}]
 ```
 
 Above is a list of dictionaries containing the names of employees and which ceral company they work for. Complete the Challenge by working through all the sections! 
