@@ -2,7 +2,7 @@
 
 ```
 fruitcompanies= [{"name":"Zesty","employees":["Brian", "Colin", "Derik", "Emily", "Ripal"]},
-                 {"name":"Ripe.ly","employees":["Kishor", "Leia", "Maria", "Jason"]},
+                 {"name":"Ripely","employees":["Kishor", "Leia", "Maria", "Jason"]},
                  {"name":"FruitBee","employees":["Rod", "Jarrad", "Pemba", "Dom"]},
                  {"name":"HoneyGrove","employees":["Samuel", "Travis", "Thomas, Torin"]}]
 ```
