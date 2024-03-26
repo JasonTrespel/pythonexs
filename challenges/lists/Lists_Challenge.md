@@ -13,7 +13,7 @@ wordbank= ["indentation", "spaces"]
 **PART 2.** Put this list in your code:   
 
 ```python
-tlgstudents= ["Aaron", "Andy", "Asif", "Brent", "Cedric", "Chris", "Dom", "Franco", "Ripal", "Rod", "Joey", "Jordan", "JC", "Louis", "Samuel", "Thomas", "Zach"]
+tlgstudents= ["Aaron", "Ahmed", "Andy", "Brent", "Cedric", "Chris", "Dom", "Franco", "John", "Nicolas", "Joey", "Jordan", "JC", "Louis", "Samuel", "Sanam", "Zach"]
 ```
     
 **PART 3.** Add a line of code that appends the integer `4` to the list `wordbank`.
