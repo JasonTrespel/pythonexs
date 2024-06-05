@@ -97,7 +97,7 @@ classinfo = {
             "super power": "Explosive Shouts",
         },
         {
-            "name": "Dom",
+            "name": "Etien",
             "skill level": "great",
             "spirit animal": "Pigeon",
             "super power": "Matter Ingestion",
@@ -133,7 +133,7 @@ classinfo = {
             "super power": "Stretchy",
         },
         {
-            "name": "Ripal",
+            "name": "Penn",
             "skill level": "pleasant",
             "spirit animal": "Albatross",
             "super power": "Steel Skin",
@@ -151,7 +151,7 @@ classinfo = {
             "super power": "Polyglot",
         },
         {
-            "name": "Thomas",
+            "name": "Zachary",
             "skill level": "super",
             "spirit animal": "Fox",
             "super power": "Eat Anything",
