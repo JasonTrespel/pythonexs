@@ -25,7 +25,7 @@ tlgstudents= ["Aaron", "Andy", "Brent", "Cedric", "Chris", "Etien", "Franco", "J
     wordbank.append(4)
 </details>
 
-**PART 4.** Include an input asking for a number between 0 and 17. Save this as the variable `num`.
+**PART 4.** Include an input asking for a number between 0 and 14. Save this as the variable `num`.
 
 <details>
 <summary>I need a hint!</summary>
