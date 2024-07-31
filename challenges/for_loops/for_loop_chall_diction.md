@@ -1,10 +1,10 @@
 # LOOPING DICTIONARIES Challenge!
 
 ```
-fruitcompanies= [{"name":"Zesty","employees":["Brian", "Colin", "Derik", "Emily", "Ripal"]},
+fruitcompanies= [{"name":"Zesty","employees":["Brian", "Colin", "Derik", "Emily", "Phillip"]},
                  {"name":"Ripely","employees":["Kishor", "Leia", "Maria", "Jason"]},
-                 {"name":"FruitBee","employees":["Rod", "Jarrad", "Pemba", "Dom"]},
-                 {"name":"HoneyGrove","employees":["Samuel", "Travis", "Thomas, Torin"]}]
+                 {"name":"FruitBee","employees":["Rod", "Jarrad", "Paije", "Dom"]},
+                 {"name":"HoneyGrove","employees":["Tim", "Travis", "Thomas"]}]
 ```
 
 Above is a list of dictionaries containing the names of employees and which ceral company they work for. Complete the Challenge by working through all the sections! 
@@ -31,10 +31,10 @@ This Challenge will test your skills with lists, dictionaries, and (fruit) loopi
   
 ```python
   
-fruitcompanies= [{"name":"Zesty","employees":["Bryan", "Colin", "Erik", "Greg", "John"]},
-                 {"name":"Ripe.ly","employees":["Kishor", "Leia", "Maria", "Chad"]},
-                 {"name":"FruitBee","employees":["Monte", "Jarrad", "Pemba", "Don"]},
-                 {"name":"JuiceGrove","employees":["Tim", "Travis", "Trung"]}]
+fruitcompanies= [{"name":"Zesty","employees":["Bryan", "Colin", "Erik", "Emily", "Phillip"]},
+                 {"name":"Ripely","employees":["Kishor", "Leia", "Maria", "Jason"]},
+                 {"name":"FruitBee","employees":["Rod", "Jarrad", "Paije", "Dom"]},
+                 {"name":"JuiceGrove","employees":["Tim", "Travis", "Thomas"]}]
 
 # Write a for loop that returns all the employees from the company you "work" for!
 
