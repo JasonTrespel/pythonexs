@@ -43,7 +43,7 @@ for x in fruitcompanies[1]["employees"]:
 
 # Ask a user to choose a company. Return the employees that belong to that group.
 
-choice= input("Choose a company: Zesty, Ripe.ly, FruitBee, JuiceGrove\n>")
+choice= input("Choose a company: Zesty, Ripely, FruitBee, JuiceGrove\n>")
 
 for company in fruitcompanies:
     if choice == company["name"]:
