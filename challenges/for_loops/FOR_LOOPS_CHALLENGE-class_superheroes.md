@@ -127,13 +127,13 @@ classinfo = {
             "super power": "Needle Projection",
         },
         {
-            "name": "Luke",
+            "name": "Paije",
             "skill level": "phenomenal",
             "spirit animal": "Leopard",
             "super power": "Stretchy",
         },
         {
-            "name": "Phil",
+            "name": "Phillip",
             "skill level": "pleasant",
             "spirit animal": "Albatross",
             "super power": "Steel Skin",
