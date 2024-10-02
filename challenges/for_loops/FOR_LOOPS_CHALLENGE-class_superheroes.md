@@ -61,7 +61,7 @@ classinfo = {
             "super power": "X-ray Vision",
         },
         {
-            "name": "Blake",
+            "name": "Brandon",
             "skill level": "brilliant",
             "spirit animal": "Eagle",
             "super power": "Shape of: A Giant Shark",
@@ -115,7 +115,7 @@ classinfo = {
             "super power": "Height Manipulation",
         },
         {
-            "name": "Joseph",
+            "name": "Jeff",
             "skill level": "marvelous",
             "spirit animal": "Aardwolf",
             "super power": "Hydrokinesis",
@@ -139,13 +139,13 @@ classinfo = {
             "super power": "Steel Skin",
         },
         {
-            "name": "Rupesh",
+            "name": "Rudy",
             "skill level": "pleasing",
             "spirit animal": "Alligator",
             "super power": "Teleportation",
         },
         {
-            "name": "Samuel",
+            "name": "Shenouda",
             "skill level": "remarkable",
             "spirit animal": "Lynx",
             "super power": "Polyglot",
