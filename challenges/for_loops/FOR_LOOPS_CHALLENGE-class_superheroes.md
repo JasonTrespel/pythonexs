@@ -91,7 +91,7 @@ classinfo = {
             "super power": "Invulnerability",
         },
         {
-            "name": "Daniel",
+            "name": "David",
             "skill level": "fantastic",
             "spirit animal": "Goose",
             "super power": "Explosive Shouts",
@@ -139,7 +139,7 @@ classinfo = {
             "super power": "Steel Skin",
         },
         {
-            "name": "Rudy",
+            "name": "Namit",
             "skill level": "pleasing",
             "spirit animal": "Alligator",
             "super power": "Teleportation",
