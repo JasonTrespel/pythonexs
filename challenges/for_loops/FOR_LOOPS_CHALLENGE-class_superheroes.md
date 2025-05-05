@@ -145,7 +145,7 @@ classinfo = {
             "super power": "Teleportation",
         },
         {
-            "name": "Shenouda",
+            "name": "Tania",
             "skill level": "remarkable",
             "spirit animal": "Lynx",
             "super power": "Polyglot",
