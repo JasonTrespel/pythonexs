@@ -12,7 +12,7 @@ http://api.open-notify.org/iss-now.json
 - Using the **requests** module, access the API from the link above and pull/translate the JSON!
 
 <details>
-<summary>Wait, I'm still sleepy. How about a lil' code to get me started? As a treat.</summary>
+<summary>Wait, I'm still new. How about a lil' code to get me started? As a treat.</summary>
 
 ```python
 #!/usr/bin/env python3
@@ -30,7 +30,7 @@ if __name__ == "__main__":
 </details>
 
 #### Part 2: 
-- This API changes EVERY SINGLE TIME a GET request is sent to it (it's moving 4.76 miles per second, after all!) Make your script return the collected data into something like this:
+- This API changes EVERY SINGLE TIME a GET request is sent to it (it's moving 4.76 miles per second, after all!). Make your script return the collected data into something like this:
     
     ```
     CURRENT LOCATION OF THE ISS:
